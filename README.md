@@ -5,4 +5,4 @@
 - 💬 Ask me about anything you'd like!
 - 📫 How to reach me: a.kowalska622@gmail.com
 - 😄 Pronouns: she/her
-
+- 🚀 Hire me on [Upwork](https://www.upwork.com/freelancers/~016a5a9cd1ca1fc734)
