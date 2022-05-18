@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Svelte and diving into basics of backend development
 - 💬 Ask me about anything you'd like!
 - 🖥 Take a look at my portfolio: https://akowalska622.github.io/portfolio/
-- Or my LinkedIn page: https://www.linkedin.com/in/ania-kowalska-a734591a6/
+- 💼 Or my LinkedIn page: https://www.linkedin.com/in/ania-kowalska-a734591a6/
 - 📫 How to reach me: a.kowalska622@gmail.com
 - 😄 Pronouns: she/her
 - 🚀 Hire me on [Upwork](https://www.upwork.com/freelancers/~016a5a9cd1ca1fc734)
