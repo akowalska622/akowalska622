@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on full blown **React** demo shop, with **Redux**, **GraphQL**, **Firebase** and payments in **Stripe**
 - 🌱 I’m currently learning Svelte and diving into basics of backend development
 - 💬 Ask me about anything you'd like!
-- 🖥 Take a look at my portfolio: https://akowalska622.github.io/portfolio/
+- 🖥 Take a look at my portfolio (craeted in early 2021, a lot learnt since this time!): https://akowalska622.github.io/portfolio/
 - 💼 Or my LinkedIn page: https://www.linkedin.com/in/ania-kowalska-a734591a6/
 - 📫 How to reach me: a.kowalska622@gmail.com
 - 😄 Pronouns: she/her
