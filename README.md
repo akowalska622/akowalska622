@@ -7,4 +7,4 @@
 - 💼 Or my LinkedIn page: https://www.linkedin.com/in/ania-kowalska-a734591a6/
 - 📫 How to reach me: a.kowalska622@gmail.com
 - 😄 Pronouns: she/her
-- 🚀 Hire me on [Upwork](https://www.upwork.com/freelancers/~016a5a9cd1ca1fc734)
+- 🚀 Hire me for a freelance project or on [Upwork](https://www.upwork.com/freelancers/~016a5a9cd1ca1fc734)
